@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tja:home|Door43 (tja)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tja|d43-tja repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tja/archive/master.zip|d43-tja.zip]]
+
+**Recent Changes**
+{{changes>ns = tja}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tja|Ethnologue data]]
+
